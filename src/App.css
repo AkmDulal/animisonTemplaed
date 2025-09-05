@@ -1,0 +1,16 @@
+#root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  /* padding: 2rem;
+  text-align: center; */
+}
+body {
+    margin: 0;
+    font-family: "SF Pro Text";
+    font-weight: 400;
+    font-size: 1.4rem;
+    position: relative;
+    background-color: #010613;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
